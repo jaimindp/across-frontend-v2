@@ -20,7 +20,7 @@ import { Text } from "components/Text";
 
 const LINKS = !enableMigration
   ? [
-      { href: "/bridge", name: "Bridge" },
+      { href: "/bridge", name: "Jaimin's Bridge" },
       { href: "/pool", name: "Pool" },
       { href: "/rewards", name: "Rewards" },
       { href: "/transactions", name: "Transactions" },

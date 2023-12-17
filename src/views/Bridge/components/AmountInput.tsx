@@ -54,7 +54,7 @@ export function AmountInput({
             <AmountInnerInput
               type="number"
               valid={didEnter ? isAmountValid : true}
-              placeholder="Enter amount"
+              placeholder="Enter Amount"
               value={amountInput}
               onChange={(e) => {
                 if (!didEnter) {
